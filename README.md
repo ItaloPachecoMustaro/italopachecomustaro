@@ -32,10 +32,6 @@
 
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItaloPachecoMustaro&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-
 <div align="center">ㅤㅤㅤㅤ
   <a href="https://github.com/ItaloPachecoMustaro">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloPachecoMustaro&&theme=tokyonight"/></p>
